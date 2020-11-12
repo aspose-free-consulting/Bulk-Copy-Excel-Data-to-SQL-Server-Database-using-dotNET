@@ -100,3 +100,15 @@ A sample Excel file “Sample.xlsx” is part of this demo project which contain
 - After running the program following shall be the table data
 
 ![Graphical user interface, application](BulkInsertExcelToMSSqlServer.003.png)
+
+
+## Interested in Aspose free consulting project?
+[If you are also interested in a free consulting project by Aspose team then please view details on this page](https://aspose-free-consulting.github.io/)
+
+If you have any questions about Aspose APIs, please feel free to [post your query in Aspose file format APIs Forums](https://forum.aspose.com/). 
+
+Also, you can keep in touch with the latest developments in [file format APIs offered by Aspose at our Blog](https://blog.aspose.com/).
+
+## This free consluting project is based on the following issue:
+
+[Using Aspose.Cells for .NET, I want to bulk copy an Excel file to a MS SQL Server database table with the same format and column names.](https://github.com/aspose-free-consulting/projects/issues/77)
