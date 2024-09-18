@@ -120,4 +120,4 @@ Also, you can keep in touch with the latest developments in [file format APIs of
 
 ## This free consluting project is based on the following issue:
 
-[Using Aspose.Cells for .NET, I want to bulk copy an Excel file to a MS SQL Server database table with the same format and column names.](https://github.com/aspose-free-consulting/projects/issues/77)
+Using Aspose.Cells for .NET, I want to bulk copy an Excel file to a MS SQL Server database table with the same format and column names. github.com/aspose-free-consulting/projects/issues/77
